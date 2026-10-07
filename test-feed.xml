@@ -6,7 +6,7 @@
   <link>https://www.ahavatachim.org/</link>
   <language>en</language>
   <copyright>Ahavat Achim</copyright>
-  <lastBuildDate>Wed, 07 Oct 2026 01:52:56 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 03:38:48 +0000</lastBuildDate>
   <atom:link href="https://anudels.github.io/AutomatedPodcastFeed/feed.xml" rel="self" type="application/rss+xml" />
   <itunes:author>Ahavat Achim</itunes:author>
   <itunes:summary>A repository of Ahavat Achim's Torah recordings</itunes:summary>
@@ -25,5 +25,41 @@
    <title>Torah Podcast for Your Commute</title>
    <link>https://www.ahavatachim.org/</link>
   </image>
+  <item>
+   <title>Birchas Hagomel #14</title>
+   <description>&lt;p&gt;Birchas Hagomel #14&lt;/p&gt;</description>
+   <guid isPermaLink="false">82e2849e-2daf-4b2a-b03f-bac9cae94203</guid>
+   <pubDate>Fri, 25 Sep 2026 12:00:00 +0000</pubDate>
+   <enclosure url="https://github.com/anudels/AutomatedPodcastFeed/releases/download/audio-2026/2026-09-25-birchas-hagomel-14-82e2849e.m4a" length="5245896" type="audio/mp4" />
+   <itunes:duration>00:05:24</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>1</itunes:season>
+   <itunes:episode>399</itunes:episode>
+  </item>
+  <item>
+   <title>Birchas Hagomel #13</title>
+   <description>&lt;p&gt;Birchas Hagomel #13&lt;/p&gt;</description>
+   <guid isPermaLink="false">fb55fee7-9ea2-4292-b722-541ea8922e61</guid>
+   <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
+   <enclosure url="https://github.com/anudels/AutomatedPodcastFeed/releases/download/audio-2026/2026-09-23-birchas-hagomel-13-fb55fee7.m4a" length="9815472" type="audio/mp4" />
+   <itunes:duration>00:10:06</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>1</itunes:season>
+   <itunes:episode>398</itunes:episode>
+  </item>
+  <item>
+   <title>Birchas Hagomel #12</title>
+   <description>&lt;p&gt;Birchas Hagomel #12&lt;/p&gt;</description>
+   <guid isPermaLink="false">83b0dfb3-8c9e-4138-b7a2-0883d47555dc</guid>
+   <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+   <enclosure url="https://github.com/anudels/AutomatedPodcastFeed/releases/download/audio-2026/2026-09-21-birchas-hagomel-12-83b0dfb3.m4a" length="9995358" type="audio/mp4" />
+   <itunes:duration>00:10:17</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>1</itunes:season>
+   <itunes:episode>397</itunes:episode>
+  </item>
  </channel>
 </rss>
