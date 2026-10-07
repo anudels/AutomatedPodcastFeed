@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ <channel>
+  <title>Torah Podcast for Your Commute</title>
+  <description>A repository of Ahavat Achim's Torah recordings</description>
+  <link>https://www.ahavatachim.org/</link>
+  <language>en</language>
+  <copyright>Ahavat Achim</copyright>
+  <lastBuildDate>Wed, 07 Oct 2026 01:52:56 +0000</lastBuildDate>
+  <atom:link href="https://anudels.github.io/AutomatedPodcastFeed/feed.xml" rel="self" type="application/rss+xml" />
+  <itunes:author>Ahavat Achim</itunes:author>
+  <itunes:summary>A repository of Ahavat Achim's Torah recordings</itunes:summary>
+  <itunes:type>episodic</itunes:type>
+  <itunes:owner>
+   <itunes:name>Ahavat Achim</itunes:name>
+   <itunes:email>podcast@ahavatachim.org</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:category text="Religion &amp; Spirituality">
+   <itunes:category text="Judaism" />
+  </itunes:category>
+  <itunes:image href="https://anudels.github.io/AutomatedPodcastFeed/cover.jpg" />
+  <image>
+   <url>https://anudels.github.io/AutomatedPodcastFeed/cover.jpg</url>
+   <title>Torah Podcast for Your Commute</title>
+   <link>https://www.ahavatachim.org/</link>
+  </image>
+ </channel>
+</rss>
