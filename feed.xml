@@ -6,8 +6,8 @@
   <link>https://www.ahavatachim.org/</link>
   <language>en</language>
   <copyright>Ahavat Achim</copyright>
-  <lastBuildDate>Fri, 09 Oct 2026 02:18:37 +0000</lastBuildDate>
-  <atom:link href="https://anudels.github.io/AutomatedPodcastFeed/feed.xml" rel="self" type="application/rss+xml" />
+  <lastBuildDate>Fri, 09 Oct 2026 03:20:01 +0000</lastBuildDate>
+  <atom:link href="https://aa-podcast.ahavat-achim.workers.dev/feed.xml" rel="self" type="application/rss+xml" />
   <itunes:author>Ahavat Achim</itunes:author>
   <itunes:summary>A repository of Ahavat Achim's Torah recordings</itunes:summary>
   <itunes:type>episodic</itunes:type>
@@ -19,9 +19,9 @@
   <itunes:category text="Religion &amp; Spirituality">
    <itunes:category text="Judaism" />
   </itunes:category>
-  <itunes:image href="https://anudels.github.io/AutomatedPodcastFeed/cover.jpg" />
+  <itunes:image href="https://aa-podcast.ahavat-achim.workers.dev/cover.jpg" />
   <image>
-   <url>https://anudels.github.io/AutomatedPodcastFeed/cover.jpg</url>
+   <url>https://aa-podcast.ahavat-achim.workers.dev/cover.jpg</url>
    <title>Torah Podcast for Your Commute</title>
    <link>https://www.ahavatachim.org/</link>
   </image>
