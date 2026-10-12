@@ -6,7 +6,7 @@
   <link>https://www.ahavatachim.org/</link>
   <language>en</language>
   <copyright>Ahavat Achim</copyright>
-  <lastBuildDate>Fri, 09 Oct 2026 16:00:01 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 04:00:02 +0000</lastBuildDate>
   <atom:link href="https://aa-podcast.ahavat-achim.workers.dev/feed.xml" rel="self" type="application/rss+xml" />
   <itunes:author>Ahavat Achim</itunes:author>
   <itunes:summary>A repository of Ahavat Achim's Torah recordings</itunes:summary>
@@ -25,6 +25,18 @@
    <title>Torah Podcast for Your Commute</title>
    <link>https://www.ahavatachim.org/</link>
   </image>
+  <item>
+   <title>Daily Halacha: Cooking on Shabbos #1</title>
+   <description>&lt;p&gt;Daily Halacha: Cooking on Shabbos #1&lt;/p&gt;</description>
+   <guid isPermaLink="false">e470b798-570a-48cb-9d95-85f8b605ed29</guid>
+   <pubDate>Mon, 12 Oct 2026 04:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-12-daily-halacha-cooking-on-shabbos-1-e470b798.mp3" length="1966412" type="audio/mpeg" />
+   <itunes:duration>00:04:06</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>1</itunes:season>
+   <itunes:episode>401</itunes:episode>
+  </item>
   <item>
    <title>Daily Halacha: Intro to shabbat #5: the 39 prohibited categories and their relationship to the temple</title>
    <description>&lt;p&gt;Daily Halacha: Intro to shabbat #5: the 39 prohibited categories and their relationship to the temple&lt;/p&gt;</description>
