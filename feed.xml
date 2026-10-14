@@ -6,7 +6,7 @@
   <link>https://www.ahavatachim.org/</link>
   <language>en</language>
   <copyright>Ahavat Achim</copyright>
-  <lastBuildDate>Wed, 14 Oct 2026 01:15:02 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 04:00:02 +0000</lastBuildDate>
   <atom:link href="https://aa-podcast.ahavat-achim.workers.dev/feed.xml" rel="self" type="application/rss+xml" />
   <itunes:new-feed-url>https://aa-podcast.ahavat-achim.workers.dev/feed.xml</itunes:new-feed-url>
   <itunes:author>Ahavat Achim</itunes:author>
@@ -26,6 +26,34 @@
    <title>Torah Podcast for Your Commute</title>
    <link>https://www.ahavatachim.org/</link>
   </image>
+  <item>
+   <title>Daily Halacha: Cooking on Shabbat #3</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #3&lt;/p&gt;</description>
+   <guid isPermaLink="false">a285278b-4a1a-4e0f-ae7c-c1705613edaf</guid>
+   <pubDate>Wed, 14 Oct 2026 04:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-14-daily-halacha-cooking-on-shabbos-3-a285278b.mp3" length="2036002" type="audio/mpeg" />
+   <itunes:duration>00:04:14</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>1</itunes:season>
+   <itunes:episode>403</itunes:episode>
+  </item>
+  <item>
+   <title>New Facets on Noach: 40 day, 40 nights and the cause of the fall of the tower of babel</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;New Facets on Noach: 40 day, 40 nights and the cause of the fall of the tower of babel&lt;/p&gt;</description>
+   <guid isPermaLink="false">f115ffef-9bb8-48ed-b146-f85d2e75da7f</guid>
+   <pubDate>Wed, 14 Oct 2026 04:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-14-new-facets-on-noach-noach-40-day-40-nights-and-the-cause-of--f115ffef.mp3" length="13816238" type="audio/mpeg" />
+   <itunes:duration>00:28:47</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>2</itunes:season>
+   <itunes:episode>258</itunes:episode>
+  </item>
   <item>
    <title>Daily Halacha: Cooking on Shabbat #2</title>
    <link>https://www.ahavatachim.org/</link>
