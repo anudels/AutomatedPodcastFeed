@@ -6,7 +6,7 @@
   <link>https://www.ahavatachim.org/</link>
   <language>en</language>
   <copyright>Ahavat Achim</copyright>
-  <lastBuildDate>Fri, 16 Oct 2026 04:00:02 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 16:00:02 +0000</lastBuildDate>
   <atom:link href="https://aa-podcast.ahavat-achim.workers.dev/feed.xml" rel="self" type="application/rss+xml" />
   <itunes:new-feed-url>https://aa-podcast.ahavat-achim.workers.dev/feed.xml</itunes:new-feed-url>
   <itunes:author>Ahavat Achim</itunes:author>
@@ -26,6 +26,20 @@
    <title>Torah Podcast for Your Commute</title>
    <link>https://www.ahavatachim.org/</link>
   </image>
+  <item>
+   <title>Daily Halacha: Shabbat State of Mind #1</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;Daily Halacha: Shabbat State of Mind #1&lt;/p&gt;</description>
+   <guid isPermaLink="false">a7fb5c97-66cf-40e7-a89d-32896543ec14</guid>
+   <pubDate>Fri, 16 Oct 2026 16:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-16-daily-halacha-shabbat-state-of-mind-1-a7fb5c97.mp3" length="2571619" type="audio/mpeg" />
+   <itunes:duration>00:05:21</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>1</itunes:season>
+   <itunes:episode>406</itunes:episode>
+  </item>
   <item>
    <title>Daily Halacha: Cooking on Shabbat #5</title>
    <link>https://www.ahavatachim.org/</link>
