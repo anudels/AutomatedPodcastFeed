@@ -6,7 +6,7 @@
   <link>https://www.ahavatachim.org/</link>
   <language>en</language>
   <copyright>Ahavat Achim</copyright>
-  <lastBuildDate>Fri, 23 Oct 2026 16:00:02 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 04:00:02 +0000</lastBuildDate>
   <atom:link href="https://aa-podcast.ahavat-achim.workers.dev/feed.xml" rel="self" type="application/rss+xml" />
   <itunes:new-feed-url>https://aa-podcast.ahavat-achim.workers.dev/feed.xml</itunes:new-feed-url>
   <itunes:author>Ahavat Achim</itunes:author>
@@ -26,6 +26,20 @@
    <title>Torah Podcast for Your Commute</title>
    <link>https://www.ahavatachim.org/</link>
   </image>
+  <item>
+   <title>New Facets on Vayera: Of All the Barren Matriarchs, Only Sarah Gets a Pregnancy Announcement &amp; Destroying the Victims of Sedom</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;New Facets on Vayera: Of All the Barren Matriarchs, Only Sarah Gets a Pregnancy Announcement &amp;amp; Destroying the Victims of Sedom&lt;/p&gt;</description>
+   <guid isPermaLink="false">2cc58e78-78b4-4f0e-b43e-2bab0a62e6b7</guid>
+   <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-28-new-facets-on-vayera-of-all-the-barren-matriarchs-only-sarah-2cc58e78.mp3" length="14015429" type="audio/mpeg" />
+   <itunes:duration>00:29:12</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>2</itunes:season>
+   <itunes:episode>260</itunes:episode>
+  </item>
   <item>
    <title>Daily Halacha: Shabbat State of Mind #2</title>
    <link>https://www.ahavatachim.org/</link>
