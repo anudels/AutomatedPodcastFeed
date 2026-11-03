@@ -6,7 +6,7 @@
   <link>https://www.ahavatachim.org/</link>
   <language>en</language>
   <copyright>Ahavat Achim</copyright>
-  <lastBuildDate>Wed, 28 Oct 2026 04:00:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 05:00:02 +0000</lastBuildDate>
   <atom:link href="https://aa-podcast.ahavat-achim.workers.dev/feed.xml" rel="self" type="application/rss+xml" />
   <itunes:new-feed-url>https://aa-podcast.ahavat-achim.workers.dev/feed.xml</itunes:new-feed-url>
   <itunes:author>Ahavat Achim</itunes:author>
@@ -26,6 +26,20 @@
    <title>Torah Podcast for Your Commute</title>
    <link>https://www.ahavatachim.org/</link>
   </image>
+  <item>
+   <title>Daily Halacha: Cooking on Shabbat #11</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #11&lt;/p&gt;</description>
+   <guid isPermaLink="false">dbbfde38-3fff-431c-8c5d-359bcb185fae</guid>
+   <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-11-03-daily-halacha-cooking-on-shabbat-11-dbbfde38.mp3" length="1563836" type="audio/mpeg" />
+   <itunes:duration>00:03:15</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>1</itunes:season>
+   <itunes:episode>413</itunes:episode>
+  </item>
   <item>
    <title>New Facets on Vayera: Of All the Barren Matriarchs, Only Sarah Gets a Pregnancy Announcement &amp; Destroying the Victims of Sedom</title>
    <link>https://www.ahavatachim.org/</link>
