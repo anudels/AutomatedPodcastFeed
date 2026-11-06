@@ -6,7 +6,7 @@
   <link>https://www.ahavatachim.org/</link>
   <language>en</language>
   <copyright>Ahavat Achim</copyright>
-  <lastBuildDate>Fri, 06 Nov 2026 05:00:01 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 17:00:03 +0000</lastBuildDate>
   <atom:link href="https://aa-podcast.ahavat-achim.workers.dev/feed.xml" rel="self" type="application/rss+xml" />
   <itunes:new-feed-url>https://aa-podcast.ahavat-achim.workers.dev/feed.xml</itunes:new-feed-url>
   <itunes:author>Ahavat Achim</itunes:author>
@@ -26,6 +26,34 @@
    <title>Torah Podcast for Your Commute</title>
    <link>https://www.ahavatachim.org/</link>
   </image>
+  <item>
+   <title>Daily Halacha: Cooking on Shabbat #14</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #14&lt;/p&gt;</description>
+   <guid isPermaLink="false">367a9e9a-347f-4a90-b4e3-bc844514532b</guid>
+   <pubDate>Fri, 06 Nov 2026 17:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-11-06-daily-halacha-cooking-on-shabbat-14-367a9e9a.mp3" length="1948858" type="audio/mpeg" />
+   <itunes:duration>00:04:04</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>1</itunes:season>
+   <itunes:episode>416</itunes:episode>
+  </item>
+  <item>
+   <title>New Facets on Chayei Sarah: Didn't Avraham Already Know About Rivkah?!</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;New Facets on Chayei Sarah: Didn&amp;#x27;t Avraham Already Know About Rivkah?!&lt;/p&gt;</description>
+   <guid isPermaLink="false">b93d5ed7-2c8e-48f4-b208-a84c22c968fc</guid>
+   <pubDate>Fri, 06 Nov 2026 17:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-11-06-new-facets-on-chayei-sarah-didn-t-avraham-already-know-about-b93d5ed7.mp3" length="13310694" type="audio/mpeg" />
+   <itunes:duration>00:27:44</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>2</itunes:season>
+   <itunes:episode>261</itunes:episode>
+  </item>
   <item>
    <title>Daily Halacha: Cooking on Shabbat #13</title>
    <link>https://www.ahavatachim.org/</link>
