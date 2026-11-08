@@ -6,7 +6,7 @@
   <link>https://www.ahavatachim.org/</link>
   <language>en</language>
   <copyright>Ahavat Achim</copyright>
-  <lastBuildDate>Fri, 06 Nov 2026 17:00:03 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 05:30:56 +0000</lastBuildDate>
   <atom:link href="https://aa-podcast.ahavat-achim.workers.dev/feed.xml" rel="self" type="application/rss+xml" />
   <itunes:new-feed-url>https://aa-podcast.ahavat-achim.workers.dev/feed.xml</itunes:new-feed-url>
   <itunes:author>Ahavat Achim</itunes:author>
@@ -31,8 +31,8 @@
    <link>https://www.ahavatachim.org/</link>
    <itunes:author>Ahavat Achim</itunes:author>
    <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #14&lt;/p&gt;</description>
-   <guid isPermaLink="false">367a9e9a-347f-4a90-b4e3-bc844514532b</guid>
-   <pubDate>Fri, 06 Nov 2026 17:00:00 +0000</pubDate>
+   <guid isPermaLink="false">3de0bb97-3fc4-4bc1-b33b-9f2f5e92de5c</guid>
+   <pubDate>Sun, 08 Nov 2026 05:18:00 +0000</pubDate>
    <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-11-06-daily-halacha-cooking-on-shabbat-14-367a9e9a.mp3" length="1948858" type="audio/mpeg" />
    <itunes:duration>00:04:04</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
@@ -41,26 +41,12 @@
    <itunes:episode>416</itunes:episode>
   </item>
   <item>
-   <title>New Facets on Chayei Sarah: Didn't Avraham Already Know About Rivkah?!</title>
-   <link>https://www.ahavatachim.org/</link>
-   <itunes:author>Ahavat Achim</itunes:author>
-   <description>&lt;p&gt;New Facets on Chayei Sarah: Didn&amp;#x27;t Avraham Already Know About Rivkah?!&lt;/p&gt;</description>
-   <guid isPermaLink="false">b93d5ed7-2c8e-48f4-b208-a84c22c968fc</guid>
-   <pubDate>Fri, 06 Nov 2026 17:00:00 +0000</pubDate>
-   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-11-06-new-facets-on-chayei-sarah-didn-t-avraham-already-know-about-b93d5ed7.mp3" length="13310694" type="audio/mpeg" />
-   <itunes:duration>00:27:44</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-   <itunes:episodeType>full</itunes:episodeType>
-   <itunes:season>2</itunes:season>
-   <itunes:episode>261</itunes:episode>
-  </item>
-  <item>
    <title>Daily Halacha: Cooking on Shabbat #13</title>
    <link>https://www.ahavatachim.org/</link>
    <itunes:author>Ahavat Achim</itunes:author>
    <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #13&lt;/p&gt;</description>
-   <guid isPermaLink="false">465c0186-9619-42c5-9898-b385f1c2ee5e</guid>
-   <pubDate>Fri, 06 Nov 2026 05:00:00 +0000</pubDate>
+   <guid isPermaLink="false">e94a2185-11fe-4d7b-937e-618e59386b72</guid>
+   <pubDate>Sun, 08 Nov 2026 05:17:00 +0000</pubDate>
    <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-11-06-daily-halacha-cooking-on-shabbat-13-465c0186.mp3" length="1421394" type="audio/mpeg" />
    <itunes:duration>00:02:58</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
@@ -73,8 +59,8 @@
    <link>https://www.ahavatachim.org/</link>
    <itunes:author>Ahavat Achim</itunes:author>
    <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #12&lt;/p&gt;</description>
-   <guid isPermaLink="false">1d6be89e-1f06-4488-ac95-c3dfe4376b3a</guid>
-   <pubDate>Wed, 04 Nov 2026 05:00:00 +0000</pubDate>
+   <guid isPermaLink="false">28314b22-6fb4-4d7e-987b-139cc55f9669</guid>
+   <pubDate>Sun, 08 Nov 2026 05:16:00 +0000</pubDate>
    <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-11-04-daily-halacha-cooking-on-shabbat-12-1d6be89e.mp3" length="1685753" type="audio/mpeg" />
    <itunes:duration>00:03:31</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
@@ -87,8 +73,8 @@
    <link>https://www.ahavatachim.org/</link>
    <itunes:author>Ahavat Achim</itunes:author>
    <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #11&lt;/p&gt;</description>
-   <guid isPermaLink="false">dbbfde38-3fff-431c-8c5d-359bcb185fae</guid>
-   <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+   <guid isPermaLink="false">f50ce9ff-5466-4aa4-941d-d9c5ecdd1fb6</guid>
+   <pubDate>Sun, 08 Nov 2026 05:15:00 +0000</pubDate>
    <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-11-03-daily-halacha-cooking-on-shabbat-11-dbbfde38.mp3" length="1563836" type="audio/mpeg" />
    <itunes:duration>00:03:15</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
@@ -97,12 +83,26 @@
    <itunes:episode>413</itunes:episode>
   </item>
   <item>
+   <title>New Facets on Chayei Sarah: Didn't Avraham Already Know About Rivkah?!</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;New Facets on Chayei Sarah: Didn&amp;#x27;t Avraham Already Know About Rivkah?!&lt;/p&gt;</description>
+   <guid isPermaLink="false">66e46a93-309e-4b95-b64c-b800f189841d</guid>
+   <pubDate>Fri, 06 Nov 2026 13:44:57 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-11-06-new-facets-on-chayei-sarah-didn-t-avraham-already-know-about-b93d5ed7.mp3" length="13310694" type="audio/mpeg" />
+   <itunes:duration>00:27:44</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>2</itunes:season>
+   <itunes:episode>261</itunes:episode>
+  </item>
+  <item>
    <title>New Facets on Vayera: Of All the Barren Matriarchs, Only Sarah Gets a Pregnancy Announcement &amp; Destroying the Victims of Sedom</title>
    <link>https://www.ahavatachim.org/</link>
    <itunes:author>Ahavat Achim</itunes:author>
    <description>&lt;p&gt;New Facets on Vayera: Of All the Barren Matriarchs, Only Sarah Gets a Pregnancy Announcement &amp;amp; Destroying the Victims of Sedom&lt;/p&gt;</description>
-   <guid isPermaLink="false">2cc58e78-78b4-4f0e-b43e-2bab0a62e6b7</guid>
-   <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
+   <guid isPermaLink="false">fc101fe3-5b8a-42c1-8184-53340f356643</guid>
+   <pubDate>Fri, 30 Oct 2026 19:49:57 +0000</pubDate>
    <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-28-new-facets-on-vayera-of-all-the-barren-matriarchs-only-sarah-2cc58e78.mp3" length="14015429" type="audio/mpeg" />
    <itunes:duration>00:29:12</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
@@ -115,8 +115,8 @@
    <link>https://www.ahavatachim.org/</link>
    <itunes:author>Ahavat Achim</itunes:author>
    <description>&lt;p&gt;Daily Halacha: Shabbat State of Mind #2&lt;/p&gt;</description>
-   <guid isPermaLink="false">c9b9944f-cb7a-4843-aef5-3f68181a33b0</guid>
-   <pubDate>Fri, 23 Oct 2026 16:00:00 +0000</pubDate>
+   <guid isPermaLink="false">aa7e4a54-ef99-405a-a711-54fbfe746c76</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
    <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-23-daily-halacha-shabbat-state-of-mind-2-c9b9944f.mp3" length="1910408" type="audio/mpeg" />
    <itunes:duration>00:03:59</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
@@ -129,8 +129,8 @@
    <link>https://www.ahavatachim.org/</link>
    <itunes:author>Ahavat Achim</itunes:author>
    <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #10&lt;/p&gt;</description>
-   <guid isPermaLink="false">d9f5f83e-b99d-41e0-a6f4-825166479a6e</guid>
-   <pubDate>Fri, 23 Oct 2026 04:00:00 +0000</pubDate>
+   <guid isPermaLink="false">54022fe2-ee6a-480e-9077-2c6270a26742</guid>
+   <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
    <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-23-daily-halacha-cooking-on-shabbat-10-d9f5f83e.mp3" length="1523167" type="audio/mpeg" />
    <itunes:duration>00:03:10</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
@@ -143,8 +143,8 @@
    <link>https://www.ahavatachim.org/</link>
    <itunes:author>Ahavat Achim</itunes:author>
    <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #9&lt;/p&gt;</description>
-   <guid isPermaLink="false">a4055a13-3ebd-4502-ae6d-1e706e805727</guid>
-   <pubDate>Thu, 22 Oct 2026 04:00:00 +0000</pubDate>
+   <guid isPermaLink="false">a8c2bb43-97ce-4e39-b627-311a5d8c5ad4</guid>
+   <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
    <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-22-daily-halacha-cooking-on-shabbat-9-a4055a13.mp3" length="1606758" type="audio/mpeg" />
    <itunes:duration>00:03:21</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
@@ -157,8 +157,8 @@
    <link>https://www.ahavatachim.org/</link>
    <itunes:author>Ahavat Achim</itunes:author>
    <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #8&lt;/p&gt;</description>
-   <guid isPermaLink="false">c6ceacfd-cba3-4290-808c-494342231c6d</guid>
-   <pubDate>Wed, 21 Oct 2026 04:00:00 +0000</pubDate>
+   <guid isPermaLink="false">db65babc-04ac-4662-9459-0273d82f7a7e</guid>
+   <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
    <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-21-daily-halacha-cooking-on-shabbat-8-c6ceacfd.mp3" length="1471548" type="audio/mpeg" />
    <itunes:duration>00:03:04</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
@@ -171,8 +171,8 @@
    <link>https://www.ahavatachim.org/</link>
    <itunes:author>Ahavat Achim</itunes:author>
    <description>&lt;p&gt;New Facets on Lech Lecha: &amp;quot;We&amp;#x27;re Not Robbers&amp;quot;: Defending Zionism from Breishit to Rashi to Today&lt;/p&gt;</description>
-   <guid isPermaLink="false">e5993ebb-f531-4fdf-bc22-b03a318cb854</guid>
-   <pubDate>Wed, 21 Oct 2026 04:00:00 +0000</pubDate>
+   <guid isPermaLink="false">f315718b-4b30-483b-804a-3d2f03fd17f6</guid>
+   <pubDate>Fri, 23 Oct 2026 21:15:05 +0000</pubDate>
    <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-21-new-facets-on-lech-lecha-we-re-not-robbers-defending-zionism-e5993ebb.mp3" length="14524055" type="audio/mpeg" />
    <itunes:duration>00:30:15</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
@@ -185,8 +185,8 @@
    <link>https://www.ahavatachim.org/</link>
    <itunes:author>Ahavat Achim</itunes:author>
    <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #7&lt;/p&gt;</description>
-   <guid isPermaLink="false">3289faa2-732b-48e6-a3ec-7744443e3965</guid>
-   <pubDate>Tue, 20 Oct 2026 04:00:00 +0000</pubDate>
+   <guid isPermaLink="false">bf514ff5-1f75-4923-ad0d-8c0d4766ec53</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
    <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-20-daily-halacha-cooking-on-shabbat-7-3289faa2.mp3" length="1691394" type="audio/mpeg" />
    <itunes:duration>00:03:31</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
@@ -199,8 +199,8 @@
    <link>https://www.ahavatachim.org/</link>
    <itunes:author>Ahavat Achim</itunes:author>
    <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #6&lt;/p&gt;</description>
-   <guid isPermaLink="false">ff3cd679-ee4c-4c45-9c92-94c396457392</guid>
-   <pubDate>Mon, 19 Oct 2026 04:00:00 +0000</pubDate>
+   <guid isPermaLink="false">d1fd3ac9-1096-4b2b-9b6d-9b52c834db99</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
    <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-19-daily-halacha-cooking-on-shabbat-6-ff3cd679.mp3" length="1751581" type="audio/mpeg" />
    <itunes:duration>00:03:39</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
@@ -213,8 +213,8 @@
    <link>https://www.ahavatachim.org/</link>
    <itunes:author>Ahavat Achim</itunes:author>
    <description>&lt;p&gt;Daily Halacha: Shabbat State of Mind #1&lt;/p&gt;</description>
-   <guid isPermaLink="false">a7fb5c97-66cf-40e7-a89d-32896543ec14</guid>
-   <pubDate>Fri, 16 Oct 2026 16:00:00 +0000</pubDate>
+   <guid isPermaLink="false">89265fce-0992-483b-9f73-68f436c017d4</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
    <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-16-daily-halacha-shabbat-state-of-mind-1-a7fb5c97.mp3" length="2571619" type="audio/mpeg" />
    <itunes:duration>00:05:21</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
@@ -227,8 +227,8 @@
    <link>https://www.ahavatachim.org/</link>
    <itunes:author>Ahavat Achim</itunes:author>
    <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #5&lt;/p&gt;</description>
-   <guid isPermaLink="false">fa01c946-fc80-4e3e-9947-8e6465ef163a</guid>
-   <pubDate>Fri, 16 Oct 2026 04:00:00 +0000</pubDate>
+   <guid isPermaLink="false">912aa18e-458a-4ea4-a0a6-f653505c0d5e</guid>
+   <pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
    <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-16-daily-halacha-cooking-on-shabbat-5-fa01c946.mp3" length="1632044" type="audio/mpeg" />
    <itunes:duration>00:03:24</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
@@ -241,8 +241,8 @@
    <link>https://www.ahavatachim.org/</link>
    <itunes:author>Ahavat Achim</itunes:author>
    <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #4&lt;/p&gt;</description>
-   <guid isPermaLink="false">0faeb6fd-f6bf-41f2-bebb-73b306497b29</guid>
-   <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
+   <guid isPermaLink="false">5f32fc47-413d-4039-b519-a30c3af7d35d</guid>
+   <pubDate>Tue, 20 Oct 2026 14:30:01 +0000</pubDate>
    <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-15-daily-halacha-cooking-on-shabbat-4-0faeb6fd.mp3" length="1285138" type="audio/mpeg" />
    <itunes:duration>00:02:41</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
@@ -251,26 +251,12 @@
    <itunes:episode>404</itunes:episode>
   </item>
   <item>
-   <title>Daily Halacha: Cooking on Shabbat #3</title>
-   <link>https://www.ahavatachim.org/</link>
-   <itunes:author>Ahavat Achim</itunes:author>
-   <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #3&lt;/p&gt;</description>
-   <guid isPermaLink="false">a285278b-4a1a-4e0f-ae7c-c1705613edaf</guid>
-   <pubDate>Wed, 14 Oct 2026 04:00:00 +0000</pubDate>
-   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-14-daily-halacha-cooking-on-shabbos-3-a285278b.mp3" length="2036002" type="audio/mpeg" />
-   <itunes:duration>00:04:14</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-   <itunes:episodeType>full</itunes:episodeType>
-   <itunes:season>1</itunes:season>
-   <itunes:episode>403</itunes:episode>
-  </item>
-  <item>
    <title>New Facets on Noach: 40 day, 40 nights and the cause of the fall of the tower of babel</title>
    <link>https://www.ahavatachim.org/</link>
    <itunes:author>Ahavat Achim</itunes:author>
    <description>&lt;p&gt;New Facets on Noach: 40 day, 40 nights and the cause of the fall of the tower of babel&lt;/p&gt;</description>
-   <guid isPermaLink="false">f115ffef-9bb8-48ed-b146-f85d2e75da7f</guid>
-   <pubDate>Wed, 14 Oct 2026 04:00:00 +0000</pubDate>
+   <guid isPermaLink="false">5dd58d92-9700-4a89-91ce-f4f21919879e</guid>
+   <pubDate>Fri, 16 Oct 2026 21:18:30 +0000</pubDate>
    <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-14-new-facets-on-noach-noach-40-day-40-nights-and-the-cause-of--f115ffef.mp3" length="13816238" type="audio/mpeg" />
    <itunes:duration>00:28:47</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
@@ -279,12 +265,26 @@
    <itunes:episode>258</itunes:episode>
   </item>
   <item>
+   <title>Daily Halacha: Cooking on Shabbat #3</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #3&lt;/p&gt;</description>
+   <guid isPermaLink="false">d6ab7aed-03d3-47a7-b519-f32fee992d7b</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-14-daily-halacha-cooking-on-shabbos-3-a285278b.mp3" length="2036002" type="audio/mpeg" />
+   <itunes:duration>00:04:14</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>1</itunes:season>
+   <itunes:episode>403</itunes:episode>
+  </item>
+  <item>
    <title>Daily Halacha: Cooking on Shabbat #2</title>
    <link>https://www.ahavatachim.org/</link>
    <itunes:author>Ahavat Achim</itunes:author>
    <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #2&lt;/p&gt;</description>
-   <guid isPermaLink="false">c15c06d7-8c6b-45f2-8a84-baad912b8a58</guid>
-   <pubDate>Tue, 13 Oct 2026 04:00:00 +0000</pubDate>
+   <guid isPermaLink="false">04488699-36ab-40b8-a5b9-55ad5f5e000f</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
    <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-13-daily-halacha-cooking-on-shabbos-2-c15c06d7.mp3" length="2071946" type="audio/mpeg" />
    <itunes:duration>00:04:19</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
@@ -297,8 +297,8 @@
    <link>https://www.ahavatachim.org/</link>
    <itunes:author>Ahavat Achim</itunes:author>
    <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #1&lt;/p&gt;</description>
-   <guid isPermaLink="false">e470b798-570a-48cb-9d95-85f8b605ed29</guid>
-   <pubDate>Mon, 12 Oct 2026 04:00:00 +0000</pubDate>
+   <guid isPermaLink="false">fa33ab50-5a32-4911-a0d0-9a3acce85b62</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
    <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-12-daily-halacha-cooking-on-shabbos-1-e470b798.mp3" length="1966412" type="audio/mpeg" />
    <itunes:duration>00:04:06</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
@@ -311,10 +311,66 @@
    <link>https://www.ahavatachim.org/</link>
    <itunes:author>Ahavat Achim</itunes:author>
    <description>&lt;p&gt;Daily Halacha: Intro to shabbat #5: the 39 prohibited categories and their relationship to the temple&lt;/p&gt;</description>
-   <guid isPermaLink="false">60825b61-bf00-43b5-934a-0cc4cfcc08a6</guid>
-   <pubDate>Fri, 09 Oct 2026 16:00:00 +0000</pubDate>
+   <guid isPermaLink="false">7e4a3bea-23c7-4784-834f-4b78bc44c007</guid>
+   <pubDate>Tue, 13 Oct 2026 14:02:00 +0000</pubDate>
    <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-09-daily-halacha-intro-to-shabbat-5-the-39-prohibited-categorie-60825b61.mp3" length="2384645" type="audio/mpeg" />
    <itunes:duration>00:04:58</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>1</itunes:season>
+   <itunes:episode>400</itunes:episode>
+  </item>
+  <item>
+   <title>Daily Halacha: Intro to shabbat 4: the temple and shabbat</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;Daily Halacha: Intro to shabbat 4: the temple and shabbat&lt;/p&gt;</description>
+   <guid isPermaLink="false">8f683d3c-9ad4-4239-b519-79ee763d4b56</guid>
+   <pubDate>Tue, 13 Oct 2026 14:01:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-13-daily-halacha-intro-to-shabbat-4-the-temple-and-shabbat-8f683d3c.mp3" length="3857345" type="audio/mpeg" />
+   <itunes:duration>00:04:01</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>1</itunes:season>
+   <itunes:episode>403</itunes:episode>
+  </item>
+  <item>
+   <title>Daily Halacha: Intro to shabbat 3: positive obligations of shabbat</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;Daily Halacha: Intro to shabbat 3: positive obligations of shabbat&lt;/p&gt;</description>
+   <guid isPermaLink="false">e06723da-a97a-4874-ad85-4b3d2b8fdd0d</guid>
+   <pubDate>Tue, 13 Oct 2026 14:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-13-daily-halacha-intro-to-shabbat-3-positive-obligations-of-sha-e06723da.mp3" length="3100421" type="audio/mpeg" />
+   <itunes:duration>00:03:13</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>1</itunes:season>
+   <itunes:episode>402</itunes:episode>
+  </item>
+  <item>
+   <title>Daily Halacha: Intro to shabbat 2: who's included</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;Daily Halacha: Intro to shabbat 2: who&amp;#39;s included&lt;/p&gt;</description>
+   <guid isPermaLink="false">63c4576e-d05d-4083-b793-a6b45d0352d3</guid>
+   <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-09-daily-halacha-intro-to-shabbat-2-who-s-included-63c4576e.mp3" length="2568359" type="audio/mpeg" />
+   <itunes:duration>00:02:40</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>1</itunes:season>
+   <itunes:episode>401</itunes:episode>
+  </item>
+  <item>
+   <title>Daily Halacha: Intro to Shabbat 1</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;Daily Halacha: Intro to Shabbat 1&lt;/p&gt;</description>
+   <guid isPermaLink="false">297e80cc-e898-484b-8785-cb0343ae2be0</guid>
+   <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-10-09-daily-halacha-intro-to-shabbat-1-297e80cc.mp3" length="3571043" type="audio/mpeg" />
+   <itunes:duration>00:03:43</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
    <itunes:episodeType>full</itunes:episodeType>
    <itunes:season>1</itunes:season>
