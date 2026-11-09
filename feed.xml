@@ -6,7 +6,7 @@
   <link>https://www.ahavatachim.org/</link>
   <language>en</language>
   <copyright>Ahavat Achim</copyright>
-  <lastBuildDate>Sun, 08 Nov 2026 05:48:32 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 05:00:02 +0000</lastBuildDate>
   <atom:link href="https://aa-podcast.ahavat-achim.workers.dev/feed.xml" rel="self" type="application/rss+xml" />
   <itunes:new-feed-url>https://aa-podcast.ahavat-achim.workers.dev/feed.xml</itunes:new-feed-url>
   <itunes:author>Ahavat Achim</itunes:author>
@@ -26,6 +26,20 @@
    <title>Torah Podcast for Your Commute</title>
    <link>https://www.ahavatachim.org/</link>
   </image>
+  <item>
+   <title>Daily Halacha: Cooking on Shabbat #15</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #15&lt;/p&gt;</description>
+   <guid isPermaLink="false">2adf157e-b0f7-4028-9be7-a278332703d8</guid>
+   <pubDate>Mon, 09 Nov 2026 05:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-11-09-daily-halacha-cooking-on-shabbat-15-2adf157e.mp3" length="1374164" type="audio/mpeg" />
+   <itunes:duration>00:02:52</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>1</itunes:season>
+   <itunes:episode>421</itunes:episode>
+  </item>
   <item>
    <title>Daily Halacha: Cooking on Shabbat #14</title>
    <link>https://www.ahavatachim.org/</link>
