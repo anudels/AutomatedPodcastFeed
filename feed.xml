@@ -6,7 +6,7 @@
   <link>https://www.ahavatachim.org/</link>
   <language>en</language>
   <copyright>Ahavat Achim</copyright>
-  <lastBuildDate>Tue, 10 Nov 2026 05:00:02 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 05:00:02 +0000</lastBuildDate>
   <atom:link href="https://aa-podcast.ahavat-achim.workers.dev/feed.xml" rel="self" type="application/rss+xml" />
   <itunes:new-feed-url>https://aa-podcast.ahavat-achim.workers.dev/feed.xml</itunes:new-feed-url>
   <itunes:author>Ahavat Achim</itunes:author>
@@ -26,6 +26,34 @@
    <title>Torah Podcast for Your Commute</title>
    <link>https://www.ahavatachim.org/</link>
   </image>
+  <item>
+   <title>Daily Halacha: Cooking on Shabbat #17</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #17&lt;/p&gt;</description>
+   <guid isPermaLink="false">313b895f-131f-49cc-a592-37c8987591b5</guid>
+   <pubDate>Wed, 11 Nov 2026 05:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-11-11-daily-halacha-cooking-on-shabbat-17-313b895f.mp3" length="1285139" type="audio/mpeg" />
+   <itunes:duration>00:02:41</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>1</itunes:season>
+   <itunes:episode>423</itunes:episode>
+  </item>
+  <item>
+   <title>New Facets on (Panim Chadashot) on Parshat Toldot: "The Best Laid Schemes &amp; What's in a Name (Yaakov's Freakeconomics)"</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;New Facets on (Panim Chadashot) on Parshat Toldot: "The Best Laid Schemes &amp; What's in a Name (Yaakov's Freakeconomics)"&lt;/p&gt;</description>
+   <guid isPermaLink="false">02896301-dad1-489c-9f2a-110b9c2187ec</guid>
+   <pubDate>Wed, 11 Nov 2026 05:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-11-11-new-facets-on-toldot-panim-chadashot-on-parshat-toldot-the-b-02896301.mp3" length="14260563" type="audio/mpeg" />
+   <itunes:duration>00:29:42</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>2</itunes:season>
+   <itunes:episode>262</itunes:episode>
+  </item>
   <item>
    <title>Daily Halacha: Cooking on Shabbat #16</title>
    <link>https://www.ahavatachim.org/</link>
