@@ -6,7 +6,7 @@
   <link>https://www.ahavatachim.org/</link>
   <language>en</language>
   <copyright>Ahavat Achim</copyright>
-  <lastBuildDate>Wed, 11 Nov 2026 05:00:02 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 05:00:02 +0000</lastBuildDate>
   <atom:link href="https://aa-podcast.ahavat-achim.workers.dev/feed.xml" rel="self" type="application/rss+xml" />
   <itunes:new-feed-url>https://aa-podcast.ahavat-achim.workers.dev/feed.xml</itunes:new-feed-url>
   <itunes:author>Ahavat Achim</itunes:author>
@@ -26,6 +26,20 @@
    <title>Torah Podcast for Your Commute</title>
    <link>https://www.ahavatachim.org/</link>
   </image>
+  <item>
+   <title>Daily Halacha: Cooking on Shabbat #18: conclusion on ovens for Friday night</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #18: conclusion on ovens for Friday night&lt;/p&gt;</description>
+   <guid isPermaLink="false">6346b672-97f1-4046-b73b-27c7f2b34835</guid>
+   <pubDate>Thu, 12 Nov 2026 05:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-11-12-daily-halacha-cooking-on-shabbat-18-conclusion-on-ovens-for--6346b672.mp3" length="2302699" type="audio/mpeg" />
+   <itunes:duration>00:04:48</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>1</itunes:season>
+   <itunes:episode>424</itunes:episode>
+  </item>
   <item>
    <title>Daily Halacha: Cooking on Shabbat #17</title>
    <link>https://www.ahavatachim.org/</link>
