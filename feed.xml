@@ -2,15 +2,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
  <channel>
   <title>Torah Podcast for Your Commute</title>
-  <description>A repository of Ahavat Achim's Torah recordings</description>
+  <description>A repository of Ahavat Achim's Torah recordings, featuring Rabbi Ely Shestack.</description>
   <link>https://www.ahavatachim.org/</link>
   <language>en</language>
   <copyright>Ahavat Achim</copyright>
-  <lastBuildDate>Fri, 13 Nov 2026 17:00:02 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 21:23:42 +0000</lastBuildDate>
   <atom:link href="https://aa-podcast.ahavat-achim.workers.dev/feed.xml" rel="self" type="application/rss+xml" />
   <itunes:new-feed-url>https://aa-podcast.ahavat-achim.workers.dev/feed.xml</itunes:new-feed-url>
   <itunes:author>Ahavat Achim</itunes:author>
-  <itunes:summary>A repository of Ahavat Achim's Torah recordings</itunes:summary>
+  <itunes:summary>A repository of Ahavat Achim's Torah recordings, featuring Rabbi Ely Shestack.</itunes:summary>
   <itunes:type>episodic</itunes:type>
   <itunes:owner>
    <itunes:name>Ahavat Achim</itunes:name>
