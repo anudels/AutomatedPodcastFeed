@@ -6,7 +6,7 @@
   <link>https://www.ahavatachim.org/</link>
   <language>en</language>
   <copyright>Ahavat Achim</copyright>
-  <lastBuildDate>Tue, 17 Nov 2026 05:00:02 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 05:00:02 +0000</lastBuildDate>
   <atom:link href="https://aa-podcast.ahavat-achim.workers.dev/feed.xml" rel="self" type="application/rss+xml" />
   <itunes:new-feed-url>https://aa-podcast.ahavat-achim.workers.dev/feed.xml</itunes:new-feed-url>
   <itunes:author>Ahavat Achim</itunes:author>
@@ -26,6 +26,34 @@
    <title>Torah Podcast for Your Commute</title>
    <link>https://www.ahavatachim.org/</link>
   </image>
+  <item>
+   <title>Daily Halacha: Cooking on Shabbat #22</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #22&lt;/p&gt;</description>
+   <guid isPermaLink="false">0b0133d6-d586-486b-9e1a-1c3833eb575b</guid>
+   <pubDate>Wed, 18 Nov 2026 05:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-11-18-daily-halacha-cooking-on-shabbat-22-0b0133d6.mp3" length="1112313" type="audio/mpeg" />
+   <itunes:duration>00:02:19</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>1</itunes:season>
+   <itunes:episode>429</itunes:episode>
+  </item>
+  <item>
+   <title>New Facets on Vayeitzei: If You Will It, It _Is_ a Dream</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;New Facets on Vayeitzei: If You Will It, It _Is_ a Dream&lt;/p&gt;</description>
+   <guid isPermaLink="false">8f35c6db-f9a1-4042-8f81-e13032acfcd2</guid>
+   <pubDate>Wed, 18 Nov 2026 05:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-11-18-new-facets-on-vayeitzei-if-you-will-it-it-is-a-dream-8f35c6db.mp3" length="11290056" type="audio/mpeg" />
+   <itunes:duration>00:23:31</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>2</itunes:season>
+   <itunes:episode>263</itunes:episode>
+  </item>
   <item>
    <title>Daily Halacha: Cooking on Shabbat #21</title>
    <link>https://www.ahavatachim.org/</link>
