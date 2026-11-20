@@ -6,7 +6,7 @@
   <link>https://www.ahavatachim.org/</link>
   <language>en</language>
   <copyright>Ahavat Achim</copyright>
-  <lastBuildDate>Fri, 20 Nov 2026 05:00:02 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 17:00:02 +0000</lastBuildDate>
   <atom:link href="https://aa-podcast.ahavat-achim.workers.dev/feed.xml" rel="self" type="application/rss+xml" />
   <itunes:new-feed-url>https://aa-podcast.ahavat-achim.workers.dev/feed.xml</itunes:new-feed-url>
   <itunes:author>Ahavat Achim</itunes:author>
@@ -26,6 +26,20 @@
    <title>Torah Podcast for Your Commute</title>
    <link>https://www.ahavatachim.org/</link>
   </image>
+  <item>
+   <title>Daily Halacha: Shabbat State of Mind #4: Rest, Freedom and Responsibility</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;Daily Halacha: Shabbat State of Mind #4: Rest, Freedom and Responsibility&lt;/p&gt;</description>
+   <guid isPermaLink="false">49930eac-3fa4-4eaf-8a09-7d312ae0d16a</guid>
+   <pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-11-20-daily-halacha-shabbat-state-of-mind-4-rest-freedom-and-respo-49930eac.mp3" length="1980450" type="audio/mpeg" />
+   <itunes:duration>00:04:07</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>1</itunes:season>
+   <itunes:episode>432</itunes:episode>
+  </item>
   <item>
    <title>Daily Halacha: Cooking on Shabbat #24</title>
    <link>https://www.ahavatachim.org/</link>
