@@ -6,7 +6,7 @@
   <link>https://www.ahavatachim.org/</link>
   <language>en</language>
   <copyright>Ahavat Achim</copyright>
-  <lastBuildDate>Tue, 24 Nov 2026 05:00:03 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 05:00:03 +0000</lastBuildDate>
   <atom:link href="https://aa-podcast.ahavat-achim.workers.dev/feed.xml" rel="self" type="application/rss+xml" />
   <itunes:new-feed-url>https://aa-podcast.ahavat-achim.workers.dev/feed.xml</itunes:new-feed-url>
   <itunes:author>Ahavat Achim</itunes:author>
@@ -26,6 +26,48 @@
    <title>Torah Podcast for Your Commute</title>
    <link>https://www.ahavatachim.org/</link>
   </image>
+  <item>
+   <title>Tzurba: Defining terms in learning about Shabbat</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;Tzurba: Defining terms in learning about Shabbat&lt;/p&gt;</description>
+   <guid isPermaLink="false">cca7cac5-6751-4a7c-8d18-1abe019fd0be</guid>
+   <pubDate>Wed, 25 Nov 2026 05:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-11-25-tzurba-defining-terms-in-learning-about-shabbat-cca7cac5.mp3" length="4183522" type="audio/mpeg" />
+   <itunes:duration>00:08:43</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>1</itunes:season>
+   <itunes:episode>434</itunes:episode>
+  </item>
+  <item>
+   <title>Daily Halacha: Cooking on Shabbat #26</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;Daily Halacha: Cooking on Shabbat #26&lt;/p&gt;</description>
+   <guid isPermaLink="false">46ea23f5-305a-462e-b6f6-05c01986b7d8</guid>
+   <pubDate>Wed, 25 Nov 2026 05:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-11-25-daily-halacha-cooking-on-shabbat-26-46ea23f5.mp3" length="1336966" type="audio/mpeg" />
+   <itunes:duration>00:02:47</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>1</itunes:season>
+   <itunes:episode>435</itunes:episode>
+  </item>
+  <item>
+   <title>New Facets on Vayishlach: Yaakov's Subconscious Preference</title>
+   <link>https://www.ahavatachim.org/</link>
+   <itunes:author>Ahavat Achim</itunes:author>
+   <description>&lt;p&gt;New Facets on Vayishlach: Yaakov&amp;#x27;s Subconscious Preference&lt;/p&gt;</description>
+   <guid isPermaLink="false">317ea3bb-6526-4476-9d00-42b5825b2513</guid>
+   <pubDate>Wed, 25 Nov 2026 05:00:00 +0000</pubDate>
+   <enclosure url="https://aa-podcast.ahavat-achim.workers.dev/ep/2026-11-25-new-facets-on-vayishlach-yaakov-s-subconscious-preference-317ea3bb.mp3" length="13628331" type="audio/mpeg" />
+   <itunes:duration>00:28:23</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:season>2</itunes:season>
+   <itunes:episode>264</itunes:episode>
+  </item>
   <item>
    <title>Daily Halacha: Cooking on Shabbat #25</title>
    <link>https://www.ahavatachim.org/</link>
